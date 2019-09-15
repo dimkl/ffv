@@ -15,9 +15,21 @@
     "security",
     "validation"
   ],
-  "author": "Dimitris Klouvas",
+  "author": "Dimitris Klouvas <dimitris.klouvas@gmail.com>",
   "license": "MIT",
+  "homepage": "https://github.com/dimkl/ffv#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dimkl/ffv.git"
+  },
+  "bugs": {
+    "url": "https://github.com/dimkl/ffv/issues"
+  },
   "devDependencies": {
     "jest": "^24.9.0"
+  },
+  "engines": {
+    "npm": ">=5.5.0",
+    "node": ">=8.0.0"
   }
 }
