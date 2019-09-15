@@ -28,7 +28,7 @@
 ## Install
 
 ```sh
-npm install ffv
+npm install ffv-validator
 ```
 
 ## Run tests
@@ -59,6 +59,11 @@ readStream
     console.log('Pipeline succeeded.');
   });
 ```
+
+## Resources
+
+- https://www.garykessler.net/library/file_sigs.html
+- https://www.owasp.org/index.php/OWASP_File_Format_Validation_Project
 
 ## Author
 
