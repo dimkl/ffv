@@ -1,0 +1,23 @@
+{
+  "name": "ffv",
+  "version": "0.0.1",
+  "description": "File format validation project is responsible to check if file contents match provided extension",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "node node_modules/jest/bin/jest.js --config=jest.json --no-cache",
+    "test:coverage": "node node_modules/jest/bin/jest.js --config=jest.json --no-cache --coverage"
+  },
+  "keywords": [
+    "ffv",
+    "stream",
+    "file-extension",
+    "file",
+    "security",
+    "validation"
+  ],
+  "author": "Dimitris Klouvas",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^24.9.0"
+  }
+}
