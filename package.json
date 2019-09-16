@@ -3,6 +3,9 @@
   "version": "0.0.2",
   "description": "File format validation project is responsible to check if file contents match provided extension",
   "main": "src/index.js",
+  "files": [
+    "src/"
+  ],
   "scripts": {
     "git-tag": "./version.sh",
     "test": "node node_modules/jest/bin/jest.js --config=jest.json --no-cache",
