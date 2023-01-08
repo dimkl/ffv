@@ -1,6 +1,6 @@
 {
   "name": "ffv-validator",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "File format validation project is responsible to check if file contents match provided extension",
   "main": "src/index.js",
   "files": [
